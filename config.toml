@@ -1,6 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "- Billionaires United -   "
 theme = "hugo-assembly"
 
 # Metadata
@@ -22,6 +21,7 @@ theme = "hugo-assembly"
   home = "Home"
   services = "Services"
   welcome = "Welcome"
+  donate = "Donate"
   contact = "Contact Us"
 
 # Services section
@@ -52,6 +52,13 @@ theme = "hugo-assembly"
   subtitle = "You have Made it to the top 1% and you want to pull up the Ladder of Opportunity so others can not follow." 
   description = "This is <strong>Billionaires United</strong>, an organization to inform Democratic societies how to become an aristocracy."
   button_text = "Call Now"
+
+# Donate section
+[params.donate]
+  enable = true
+  title = " Help the Elite "
+  subtitle = "Fund Billionaires for greeeds sake"
+  button_text = "Donate"
 
 # Contact section
 [params.contact]
