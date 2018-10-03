@@ -43,7 +43,7 @@ theme = "hugo-assembly"
   [[params.services.item]]
     weight = "C"
     description = "Education is a Privilege we cant afford. Education is wasted on the poor.  The primary realization is education is opportunity. The goal is to deprive the populous of education to help suppress opportunity and ensure a healthy aristocracy.  Education promotes contempt and an aristocracy cannot thrive with a contemptuous populous."
-    button_item_info = "Education A Privilege"
+    button_item_info = "Educations A Privilege"
 
 
 # Welcome section
