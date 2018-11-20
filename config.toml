@@ -28,22 +28,22 @@ theme = "hugo-assembly"
 [params.services]
   enable = true
   title = "Community Service"
-  subtitle = "Division, Greed, Fear, Hate "
+  subtitle = "Safety, Community, Obedience "
 
   [[params.services.item]]
     weight = "A"
-    description = "We support the Supreme Court decision Citizens United vs FEC and want to expand the right of anonymous corporate speech.  Messages of despair, fear, hate are messages that work well to attract the ignoratant the elderly and the racist voters using messages of exclusion, safety and freedom. <p>                                                                                                </p>"
-    button_item_info = "AnonymousSpeech"
+    description = "We support the Supreme Court Decision Citizens United vs FEC and want to expand the right of anonymous corporate speech.  Messages of despair, fear, hate are messages that work well to attract the ignorant the elderly and the racist voters using messages of exclusion, safety and freedom. <p>                                                                                                </p>"
+    button_item_info = "Anonymous Speech"
 
   [[params.services.item]]
     weight = "B"
-    description = "Primarily, our strategy is to promote ignorance, hate and despair in the Democratic system.  Our Think Tanks have strategized and learned the best way to achieve an aristocracy is to dis-enfranchise the voter and de-fund the government. Voters, no age limit just income of $50k+ and you earn the right to vote.  Billionaires need freedom from regulation to fund other voters if necessary. "
-    button_item_info = "EarnedVote"
+    description = "Primarily, our strategy is to promote ignorance, hate and despair.  We love NEWS if properly sanctioned.  Our Think Tanks have advised, the best way to achieve an autocracy is to dis-enfranchise the voter and de-fund the government.  Work is a privilege.  Vote is a privilege.  If you work and you contribute to the state you can vote.  Vote wrong and you lose the privilege to work."
+    button_item_info = "Earned Vote"
 
   [[params.services.item]]
     weight = "C"
-    description = "Education is a Privilege we cant afford. Education is wasted on the poor.  The primary realization is education is opportunity. The goal is to deprive the populous of education to help suppress opportunity and ensure a healthy aristocracy.  Education promotes contempt and an aristocracy cannot thrive with a contemptuous populous."
-    button_item_info = "Educations A Privilege"
+    description = "We believe in STATE Education.  Re-education of the populous is important.  If persons work and vote appropriately they will receive free education.  If persons vote in-appropriately they will receive special re-education programs.   Proper education promotes unity and prosperity.   Improper education promotes contempt and an aristocracy cannot thrive with a contemptuous populous."
+    button_item_info = "Priority Educations"
 
 
 # Welcome section
